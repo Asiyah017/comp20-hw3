@@ -1,6 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
-body { background-color: #FF7F50 }
+body { 
+	background-color: #FF7F50;
+	font-size: 20px;
+}
 
 h1 {color: #808080; text-align:center;}
 h2 {color: #808080; text-align:center;}
